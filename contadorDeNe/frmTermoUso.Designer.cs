@@ -41,7 +41,7 @@
             // 
             this.tituloTermoUsoLbl.AutoSize = true;
             this.tituloTermoUsoLbl.Font = new System.Drawing.Font("Cambria", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tituloTermoUsoLbl.Location = new System.Drawing.Point(74, 9);
+            this.tituloTermoUsoLbl.Location = new System.Drawing.Point(68, 30);
             this.tituloTermoUsoLbl.Name = "tituloTermoUsoLbl";
             this.tituloTermoUsoLbl.Size = new System.Drawing.Size(338, 25);
             this.tituloTermoUsoLbl.TabIndex = 1;
@@ -50,7 +50,7 @@
             // concordoBtn
             // 
             this.concordoBtn.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.concordoBtn.Location = new System.Drawing.Point(88, 526);
+            this.concordoBtn.Location = new System.Drawing.Point(103, 526);
             this.concordoBtn.Name = "concordoBtn";
             this.concordoBtn.Size = new System.Drawing.Size(92, 23);
             this.concordoBtn.TabIndex = 2;
